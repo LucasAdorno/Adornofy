@@ -20,8 +20,8 @@ export default createGlobalStyle `
 
     body{
         font: 14px 'Roboto', sans-serif;
-        background: #ecf1f8;
-        color: #333;
+        background:rgb(3,4,13);
+        color: #f0f0f0;
         -webkit-font-smoothing: antialiased !important;
     }
 

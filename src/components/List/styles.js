@@ -6,7 +6,7 @@ export const Container = styled.div`
     flex: 0 0 320px;
 
     & + div{
-      border-left: 1px solid rgba(0, 0, 0, 0.05);
+      border-left: 1px solid rgba(255, 255, 255, 0.02);
 
     }
 
@@ -26,10 +26,14 @@ export const Container = styled.div`
         button{
             width: 42px;
             height: 42px;
+            margin-bottom: 5px;
             border-radius: 18px;
-            background: #3b5bfd;
+            background: rgb(2, 210, 213);
             border: 0;
             cursor: pointer;
+        }
+        button:active{
+            border: 3px solid rgb(2, 170, 213);
         }
     }
 
