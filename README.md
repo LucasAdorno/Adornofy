@@ -2,7 +2,7 @@
 
 ## A Pipefy interface clone, with dark theme.
 
-##ReactJS, React-DnD, Styled-Components
+## ReactJS, React-DnD, Styled-Components
 
 ## Instructions
 #### -Clone the project
