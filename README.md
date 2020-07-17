@@ -1,8 +1,6 @@
 # Adornofy
 
-## A Pipefy interface clone, with dark theme.
-
-## ReactJS, React-DnD, Styled-Components
+### A Pipefy interface clone, with dark theme. ReactJS, React-DnD, Styled-Components
 
 ## Instructions
 #### -Clone the project
